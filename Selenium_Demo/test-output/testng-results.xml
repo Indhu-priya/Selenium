@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15901" started-at="2020-07-08T15:43:29 IST" finished-at="2020-07-08T15:43:45 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15901" started-at="2020-07-08T15:43:29 IST" finished-at="2020-07-08T15:43:45 IST">
+      <class name="testDefinition.TestDemo">
+        <test-method status="PASS" signature="TestCase_one_verifyTestInAllBrowser()[pri:0, instance:testDefinition.TestDemo@131276c2]" name="TestCase_one_verifyTestInAllBrowser" duration-ms="13987" started-at="2020-07-08T15:43:30 IST" finished-at="2020-07-08T15:43:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_one_verifyTestInAllBrowser -->
+      </class> <!-- testDefinition.TestDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
